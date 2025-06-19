@@ -1,2 +1,40 @@
 # Ignorar o arquivo secrets.js
 config/secrets.js
+
+# Node.js
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de build
+/dist/
+/build/
+
+# Arquivos de ambiente
+.env*
+
+# macOS
+.DS_Store
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Outros
+*.tsbuildinfo
+
+# Backend
+backend/node_modules/
+backend/*.log
+
+# Frontend
+frontend/node_modules/
+frontend/.expo/
+frontend/dist/
+frontend/web-build/
+frontend/expo-env.d.ts
+frontend/.DS_Store
+frontend/*.tsbuildinfo
