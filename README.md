@@ -23,7 +23,7 @@ O **Iglu_III** é um sistema para controle de agendamentos de clientes, voltado 
 ## Instalação
 1. Clone este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone <https://github.com/LeandroJerse/Iglu_III.git>
    cd Iglu_III
    ```
 2. Instale as dependências do backend:
