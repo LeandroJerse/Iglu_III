@@ -6,5 +6,61 @@
     "servico": "Unha Geral",
     "periodo": "tarde",
     "dia": "quinta"
+  },
+  {
+    "nome": "Cindy",
+    "hora": "14:30",
+    "telefone": "(34)984294813",
+    "servico": "Unha",
+    "periodo": "tarde",
+    "dia": "quarta"
+  },
+  {
+    "nome": "Geovanna",
+    "hora": "17:00",
+    "telefone": "(34)986328413",
+    "servico": "Limpeza Completa",
+    "periodo": "manhã",
+    "dia": "quarta"
+  },
+  {
+    "nome": "Claudia",
+    "hora": "20:00",
+    "telefone": "(34)983193842",
+    "servico": "Unhas em gel",
+    "periodo": "noite",
+    "dia": "quarta"
+  },
+  {
+    "nome": "Claudia",
+    "hora": "17",
+    "telefone": "(34)983214527",
+    "servico": "Unhas em Gel",
+    "periodo": "tarde",
+    "dia": "quinta"
+  },
+  {
+    "nome": "Rafaela",
+    "hora": "8:00",
+    "telefone": "(34)9845729488",
+    "servico": "Limpeza ",
+    "periodo": "manhã",
+    "dia": "quinta"
+  },
+  {
+    "nome": "Fernanda",
+    "hora": "20:30",
+    "telefone": "(34)982435563",
+    "servico": "Limpeza e Unha em gel",
+    "periodo": "noite",
+    "dia": "segunda"
+  },
+  {
+    "nome": "Fernanda",
+    "hora": "20:30",
+    "telefone": "(34)9833742617",
+    "servico": "Limpeza e unha em gel",
+    "periodo": "manhã",
+    "dia": "quinta"
   }
 ]
